@@ -1,0 +1,29 @@
+{
+  "name": "pebble-geocode-mapquest",
+  "description": "Turn place names into coordinates using the MapQuest Geocoding API.",
+  "author": "David Morgan",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spitemare/pebble-geocode-mapquest.git"
+  },
+  "files": [
+    "dist.zip"
+  ],
+  "keywords": [
+    "pebble-package"
+  ],
+  "dependencies": {
+    "pebble-events": "^1.1.0"
+  },
+  "pebble": {
+    "projectType": "package",
+    "sdkVersion": "3",
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk"
+    ]
+  }
+}
