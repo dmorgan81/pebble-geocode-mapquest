@@ -23,7 +23,18 @@
     "targetPlatforms": [
       "aplite",
       "basalt",
-      "chalk"
+      "chalk",
+      "diorite",
+      "emery"
+    ],
+    "messageKeys": [
+      "GM_REQUEST",
+      "GM_APIKEY",
+      "GM_LOCATION",
+      "GM_LATITUDE",
+      "GM_LONGITUDE",
+      "GM_REPLY",
+      "GM_BADKEY"
     ]
   }
 }
